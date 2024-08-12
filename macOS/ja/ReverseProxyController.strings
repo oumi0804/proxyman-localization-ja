@@ -11,9 +11,6 @@
 "ACV-KL-9fU.title" = "ローカル ポートから指定された上流サーバーに HTTP および HTTPS リクエストをプロキシします。";
 
 /* No comment by Translator*/
-"BTK-rR-f2D.title" = "Enable or Disable entire Map Local Feature";
-
-/* No comment by Translator*/
 "CxK-Gv-hSR.title" = "削除";
 
 /* No comment by Translator*/
@@ -26,25 +23,13 @@
 "GCs-n4-x4B.title" = "さらに表示";
 
 /* No comment by Translator*/
-"Jwt-5U-pAb.title" = "リモートポート";
-
-/* No comment by Translator*/
 "LYi-Ab-z66.title" = "Click \"+\" or ⌘N to add new entry";
-
-/* No comment by Translator*/
-"Mnh-53-9lf.title" = "名前";
-
-/* No comment by Translator*/
-"OV9-WJ-m0I.title" = "ローカルポート";
 
 /* No comment by Translator*/
 "PUd-93-fuq.title" = "テキストセル";
 
 /* No comment by Translator*/
 "TAb-9X-opy.title" = "⌘N: 新規; ⌘⏎: 編集; ⌘⌫: 削除; Space: ルールの有効化/無効化;";
-
-/* No comment by Translator*/
-"TXc-e9-L8R.title" = "リモートホスト";
 
 /* No comment by Translator*/
 "XXa-E2-vqy.title" = "Proxymanから...";
@@ -72,15 +57,6 @@
 
 /* No comment by Translator*/
 "kP2-Q5-Dke.title" = "Label";
-
-/* No comment by Translator*/
-"l1E-UE-JOC.title" = "有効";
-
-/* No comment by Translator*/
-"l1E-UE-JOC.title" = "Enable / Disable this entry";
-
-/* No comment by Translator*/
-"m6w-Jo-aqZ.title" = "Toggl Enable / Disable selected rules";
 
 /* No comment by Translator*/
 "m6w-Jo-aqZ.title" = "ルールを有効化";
